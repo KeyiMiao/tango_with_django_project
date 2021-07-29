@@ -8,8 +8,6 @@ from rango.models import Page
 
 from rango.forms import CategoryForm
 
-from django.shortcuts import redirect
-
 from rango.forms import PageForm
 
 from django.shortcuts import redirect
